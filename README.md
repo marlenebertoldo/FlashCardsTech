@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "">
+  <img src = "https://github.com/marlenebertoldo/FlashCardsTech/blob/main/FLASHCARDSTECH.png%20.png">
 </p>
 
 
